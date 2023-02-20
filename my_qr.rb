@@ -1,8 +1,3 @@
-their_answer = "Yes"
-
-desired_url = "https://jdowns525.github.io/"
-
-
 puts "Would you like to make a QR Code?"
 their_answer = gets
 puts "Okay, enter desired URL to generate QR Code."
